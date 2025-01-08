@@ -43,14 +43,8 @@ The dataset used in this project contains information about car sales, including
 - Filters for date range, body style, transmission type, and car color.
 - Tooltips for detailed information on hover.
 
-## How to Use
-1. Open the Tableau file using Tableau Desktop or Tableau Public.
-2. Use the filters on the left side of the dashboard to explore specific segments of the data.
-3. Hover over charts to view detailed tooltips.
-4. Navigate through different sections to analyze key insights.
-
 ### Dashboard Overview
-![Dashboard Screenshot](C:\Users\vaibhav gupta\OneDrive\Pictures\Screenshots\Summary_Page.png)
+![Dashboard Screenshot](https://github.com/vg00360/Tableau-Dashboard-Car-Sales-Analysis/blob/main/Screenshot%20of%20Dashboard.png)
 
 
 ## Skills Demonstrated
